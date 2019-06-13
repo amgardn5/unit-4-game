@@ -1,0 +1,39 @@
+html {
+
+}
+
+body {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/round.png");
+}
+
+.container {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.jumbotron {
+  margin-top: 15%;
+  padding: 5%
+}
+
+#btn1 {
+  background-image: url('../images/blue.png');
+  width: 63px;
+  height: 63px;
+}
+
+#btn2 {
+  background-image: url('../images/green.png');
+  width: 51px;
+  height: 73px;
+}
+#btn3 {
+  background-image: url('../images/red.png');
+  width: 60px;
+  height: 85px;
+}
+#btn4 {
+  background-image: url('../images/yellow.png');
+  width: 61px;
+  height: 69px;
+}
